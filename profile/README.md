@@ -14,3 +14,7 @@ I encourage constructive discussions, but:
 - Discussions that become repetitive or overly insistent will be closed immediately.  
 
 This project is a space for experimentation, and contributions should align with its philosophy. By participating, you acknowledge and respect these principles.
+
+---
+
+Read full [CONTRIBUTING.md](https://github.com/singularityos-lab/.github/blob/main/CONTRIBUTING.md).
